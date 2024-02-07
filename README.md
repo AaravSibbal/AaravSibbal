@@ -7,7 +7,8 @@
 
 ### 🌱 I’m currently learning
   - Go 
-
+  - User Authentication
+  - Caching
 
 <!--
 **AaravSibbal/AaravSibbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
