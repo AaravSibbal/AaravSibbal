@@ -1,23 +1,12 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working on a project called SnippetBox which allows users to:
-  - create snippets and set up the expiration date
-  - see a list of latest snippets
-  - see any specific snippets with the id in the url 
-
+### 🔭 I’m currently working on:
+  - making my first ever production website for a Nails Technician Freelancer
+  - I am using Go for the backend
+  - Using Go templating library to avoid unnecessary complexity as I want it to be able to run without much maintenance
+  - I am caching the html templates, images and the email regex at compile time to create robustness and also to have a faster experience (note: this only works as it is a static website and is pretty small)
+  - Making a responsive UI according to the needs of my client
 ### 🌱 I’m currently learning
-  - Go 
-  - User Authentication
-  - Caching
-
-<!--
-**AaravSibbal/AaravSibbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+  - Testing in Go
+  - How to implement CD with Digital Ocean
+  - How to make responsive UI for both desktop and mobile
