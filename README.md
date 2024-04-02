@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-### My new project
-  - zippy: zippy is a simple intuitive zipping cli made using Go, it was made to to make the zipping experience on windows better because sometime you ust need to get the job done
+### About Me:
 
+I am a CS student trying to get internships. I like making websites or tools, I love Go and tolerate JS, Bun helps. 
+
+---
+### My new projects
+  - Portfolio:  I have finished my portfolio website, it is made using Go as the server. Used "tmpl" for the rendering, still need to add the CSS. Hosted it on digital ocean using their app service. Check it out at aaravsibbal.com 
+  - zippy: zippy is a simple intuitive zipping CLI made using Go, it was made to make the zipping experience on windows better because sometime you just need to get the job done.
+---
 ### What am I up to:
-  - currently I am trying to make some cli's that I need, zippy was one but I have a couple more that I have panned.
+  - I am going to make my website look good 
+  - I am also making a website for my first client for their business
